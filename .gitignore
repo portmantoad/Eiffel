@@ -1,0 +1,16 @@
+# Include your project-specific ignores in this file
+# Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
+
+.DS_Store
+
+Icon
+
+.sass-cache/91855f44ca9ddd553eb65fe429fd14185ff76187/Icon
+
+*.scssc
+
+.sass-cache/91855f44ca9ddd553eb65fe429fd14185ff76187/Icon
+
+.sass-cache/Icon
+
+sass/.sass-cache/a1d935acc730fdda299095ea80f3e7bdeaa127dc/Icon
